@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1692078909 source:c:\users\user\desktop\structures_c\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"main.h"
+
+1704116170 c:\users\user\desktop\structures_c\pendu\main.h
+
+1704116179 source:c:\users\user\desktop\structures_c\pendu\fonctions_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
