@@ -20,7 +20,7 @@ int main()
     cpt = compteurMot();
     noMot = (rand() % (cpt - MIN + 1)) + MIN; // Prends un nb au hazard entre MIN et (cpt - MIN + 1)
     printf("\nLe no de Mots dans le Dictionnaire est %d, le no aleatoire generee est : %d\n", cpt, noMot);
-    // On recommence à lire le fichier depuis le début. On s'arrête lorsqu'on est arrivés au bon mot
+    // On recommence ï¿½ lire le fichier depuis le dï¿½but. On s'arrï¿½te lorsqu'on est arrivï¿½s au bon mot
     choixMotSecret (noMot, motSecret);
     longueurChaine = strlen(motSecret);
     initialisationChaineAffichage(chaineAffichage, longueurChaine);
